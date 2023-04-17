@@ -13,8 +13,7 @@ function ProductDetails() {
   }, []);
   return (
     <>
-      <Product product={product} showButton={false} />
-      <h1>product Details {product.title}</h1>
+      <Product product={product} />
     </>
   );
 }

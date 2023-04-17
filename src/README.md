@@ -63,7 +63,6 @@
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
 
-
   <meta name="selected-link" value="repo_source" data-turbo-transient>
 
     <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
@@ -142,14 +141,12 @@
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
 
-
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
 
-</span>      
-
+</span>
 
         <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_command-pale-51fe14-9a1b633e9244.js"></script>
 
@@ -187,7 +184,6 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
 
-
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
@@ -218,12 +214,10 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 
           <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
 
-
 <ul class="d-none js-jump-to-suggestions-template-container">
 
-
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
+  <a tabIndex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
@@ -269,9 +263,8 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
 
-
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
+  <a tabIndex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
@@ -308,7 +301,7 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 </li>
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
+  <a tabIndex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
@@ -345,7 +338,7 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 </li>
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
+  <a tabIndex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
@@ -458,7 +451,6 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
 
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
 
-
 <notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEwMzA1MTA1IiwidCI6MTY2NjA1MzEyMn0=--7049f15ecd293c48f4425c5cbdc00c98b8ed46d925af8abb5f73489327088de6" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -521,7 +513,6 @@ data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
-
 
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/AhmadHijjawi/feature_preview/indicator_check">
 
@@ -733,7 +724,7 @@ data-turbo-replace
           <input
             class="js-overlay-input typeahead-input d-none"
             disabled
-            tabindex="-1"
+            tabIndex="-1"
             aria-label="Hidden input for typeahead"
           >
           <input
@@ -1518,15 +1509,12 @@ data-turbo-replace
   >
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" >
-      
-
 
     <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-turbo-replace>
 
       <div class="d-flex flex-wrap flex-justify-end mb-3  px-3 px-md-4 px-lg-5" style="gap: 1rem;">
 
         <div class="flex-auto min-width-0 width-fit mr-3">
-
 
   <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
@@ -2093,6 +2081,7 @@ data-turbo-replace
           <span id="code-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="issues-tab" href="/AhmadHijjawi/e-commerce-app/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /AhmadHijjawi/e-commerce-app/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2104,6 +2093,7 @@ data-turbo-replace
           <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="pull-requests-tab" href="/AhmadHijjawi/e-commerce-app/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /AhmadHijjawi/e-commerce-app/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2115,6 +2105,7 @@ data-turbo-replace
           <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="actions-tab" href="/AhmadHijjawi/e-commerce-app/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /AhmadHijjawi/e-commerce-app/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2126,6 +2117,7 @@ data-turbo-replace
           <span id="actions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="projects-tab" href="/AhmadHijjawi/e-commerce-app/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /AhmadHijjawi/e-commerce-app/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2137,6 +2129,7 @@ data-turbo-replace
           <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="wiki-tab" href="/AhmadHijjawi/e-commerce-app/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /AhmadHijjawi/e-commerce-app/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2148,6 +2141,7 @@ data-turbo-replace
           <span id="wiki-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="security-tab" href="/AhmadHijjawi/e-commerce-app/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /AhmadHijjawi/e-commerce-app/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2159,6 +2153,7 @@ data-turbo-replace
           <include-fragment src="/AhmadHijjawi/e-commerce-app/security/overall-count" accept="text/fragment+html"></include-fragment>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="insights-tab" href="/AhmadHijjawi/e-commerce-app/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /AhmadHijjawi/e-commerce-app/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2170,6 +2165,7 @@ data-turbo-replace
           <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 </a></li>
+
 <li data-view-component="true" class="d-inline-flex">
 <a id="settings-tab" href="/AhmadHijjawi/e-commerce-app/settings" data-tab-item="i8settings-tab" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings repo_announcements repo_protected_tags_settings /AhmadHijjawi/e-commerce-app/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Settings&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 
@@ -2245,7 +2241,6 @@ data-turbo-replace
     
 <div data-test-selector="blob-container">
 
-
 <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AhmadHijjawi/e-commerce-app/blob/3a00d3fc89ee61543717b32121c002463ad58311/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2295,7 +2290,7 @@ data-turbo-replace
           <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
         </div>
 
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" tabIndex="" class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector
             type="branch"
             data-targets="input-demux.sinks"
@@ -2371,7 +2366,7 @@ data-turbo-replace
 
         </div>
 
-        <div role="tabpanel" id="tags-menu" data-filter-placeholder="Find a tag" tabindex="" hidden class="d-flex flex-column flex-auto overflow-auto">
+        <div role="tabpanel" id="tags-menu" data-filter-placeholder="Find a tag" tabIndex="" hidden class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector
             type="tag"
             data-action="
@@ -2485,6 +2480,7 @@ data-turbo-replace
             Copy path
 
 </clipboard-copy> </li>
+
 <li>
 <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AhmadHijjawi/e-commerce-app/blob/3a00d3fc89ee61543717b32121c002463ad58311/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
 
@@ -2493,6 +2489,7 @@ data-turbo-replace
             </span>
 
 </clipboard-copy> </li>
+
 </ul>
 
 </div>
@@ -2530,7 +2527,6 @@ data-turbo-replace
 
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
 
-
   <div
     class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
     
@@ -2562,7 +2558,6 @@ data-turbo-replace
 
     <div class="d-flex">
 
-
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
   <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/AhmadHijjawi/e-commerce-app/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YVQPcKLqISRtGNCgZRfoc1YgIEmRbMSEHO-wsmp3xG3dtDFW7aXD1wug0plGD4kYm-NFK0lYAJfsny0Tqtum-g" autocomplete="off" />
       <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2592,7 +2587,6 @@ data-turbo-replace
 
 <div data-test-selector="remote-clipboard-copy">
   <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/AhmadHijjawi/e-commerce-app/raw/3a00d3fc89ee61543717b32121c002463ad58311/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-
 
 <span data-target="remote-clipboard-copy.idle"> <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:553222848,&quot;originating_url&quot;:&quot;https://github.com/AhmadHijjawi/e-commerce-app/blob/main/README.md&quot;,&quot;user_id&quot;:110305105}}" data-hydro-click-hmac="8f34c707d7b0afc5248f14afe5de59102bbe4d39e233352a333cc0b1073d3eff" aria-label="Copy raw contents">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
@@ -2682,6 +2676,7 @@ Copy raw contents
 </svg>
 </span>
 </remote-clipboard-copy> </li>
+
 <li>
 <a class="dropdown-item" href="/AhmadHijjawi/e-commerce-app/blame/main/README.md">
 View blame
@@ -2812,7 +2807,7 @@ View blame
   </details>
 </template>
 
-    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabIndex="0">
 
   <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
   </div>

@@ -1,24 +1,26 @@
-import { Link } from "react-router-dom";
+import CartCal from "./CartCal";
+import React, { useState, useContext, useEffect } from "react";
+import { Context } from "../App";
 
 function Product(props) {
-  const { product, showButton } = props;
+  // const { Cart, setCart } = useContext(Context);
+
+  const { product } = props;
+  const { Cart, setCart } = useContext(Context);
 
   return (
     <>
-      <div className="card " style={{ height: "1000px" }}>
-        <img src={product.image} className="card-img-top" alt="" />
+      <div className="card " style={{ height: "600px" }}>
+        <img
+          src={product.image}
+          className="card-img-top "
+          style={{ height: "300px" }}
+          alt=""
+        />
         <div className="card-body d-flex flex-column">
-          <h5 className="card-title">{product.title}</h5>
-          <p className="card-text mt-">{product.description}</p>
-          <p>{product.price}$</p>
-          {showButton && (
-            <Link
-              className="btn btn-primary  mt-auto"
-              to={`product/${product.id}`}
-            >
-              Details
-            </Link>
-          )}
+          <h5 className="card-title mh-20 ">{product.title}</h5>
+          <p>Price : {product.price} $</p>
+          <CartCal prod={product} />
         </div>
       </div>
     </>

@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import CartCal from "./CartCal";
 import Product from "./Product";
 
 function ProductsList() {
@@ -7,8 +8,8 @@ function ProductsList() {
   const api_url_ca = "https://fakestoreapi.com/products/category";
   const [products, setProduct] = useState([]);
   const [categories, setCategories] = useState([]);
+
   const getcat = (cat) => {
-    console.log(cat);
     fetch(`${api_url_ca}/${cat}`)
       .then((res) => res.json())
       .then((data) => setProduct(data));

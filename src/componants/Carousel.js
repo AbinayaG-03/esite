@@ -32,21 +32,21 @@ function Carousel() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="https://media.istockphoto.com/photos/shopping-online-concept-shopping-service-on-the-online-web-with-by-picture-id1133980246?k=20&m=1133980246&s=612x612&w=0&h=bwut2YUV7gtnjrv354523xU_9S-TtKQOqGTdiGMsPfs="
+              src="https://www.erieinsurance.com/-/media/images/blog/articlephotos/2018/rentalcarlg.jpg?iar=0&rev=988292a171a94e568eee52f6956070f2&hash=8C57371A9E37A46F5E4B78855ACB146C"
               className="d-block w-100 height-500"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
-              src="https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?w=2000"
+              src="https://www.erieinsurance.com/-/media/images/blog/articlephotos/2018/rentalcarlg.jpg?iar=0&rev=988292a171a94e568eee52f6956070f2&hash=8C57371A9E37A46F5E4B78855ACB146C"
               className="d-block w-100 height-500"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
-              src="https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog/imagens-ecommerce.png"
+              src="https://www.erieinsurance.com/-/media/images/blog/articlephotos/2018/rentalcarlg.jpg?iar=0&rev=988292a171a94e568eee52f6956070f2&hash=8C57371A9E37A46F5E4B78855ACB146C"
               className="d-block w-100 height-500"
               alt="..."
             />
